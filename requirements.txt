@@ -1,0 +1,9 @@
+transformers
+uvicorn
+fastapi
+pydantic
+sentencepiece
+torch
+pyngrok
+pydantic-settings
+accelerate
